@@ -1,0 +1,22 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "This is the updated version of the fun Tether USD token with a corrected logo.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreifvuho4bim5pmnhexco7v5j2vcynx4ta5rakitjx6ag7oapyimt3q",
+  "attributes": [
+    { "trait_type": "Category", "value": "Stablecoin" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "DouuAiBSvhKzbpaccGwCbEeMcy63zRK1xvQTC17wJpZM", "share": 100 }
+    ],
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreifvuho4bim5pmnhexco7v5j2vcynx4ta5rakitjx6ag7oapyimt3q",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
