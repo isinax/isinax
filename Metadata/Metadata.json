@@ -2,7 +2,7 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "description": "This is the updated version of the fun Tether USD token with a corrected logo.",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreifvuho4bim5pmnhexco7v5j2vcynx4ta5rakitjx6ag7oapyimt3q",
+  "image": "https://raw.githubusercontent.com/isinax/isinax/2cc814dbbd527e409b5efad7671fc1d7905d02e8/Metadata/00001.png",
   "attributes": [
     { "trait_type": "Category", "value": "Stablecoin" },
     { "trait_type": "Network", "value": "Solana" }
@@ -13,7 +13,7 @@
     ],
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreifvuho4bim5pmnhexco7v5j2vcynx4ta5rakitjx6ag7oapyimt3q",
+        "uri": "https://raw.githubusercontent.com/isinax/isinax/2cc814dbbd527e409b5efad7671fc1d7905d02e8/Metadata/00001.png",
         "type": "image/png"
       }
     ]
