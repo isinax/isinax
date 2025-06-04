@@ -1,0 +1,21 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Updated version of Tether USD with a corrected logo, now on BSC.",
+  "image": "https://raw.githubusercontent.com/isinax/isinax/main/Metadata/00001.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Stablecoin" },
+    { "trait_type": "Network", "value": "BSC" }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "YOUR_BSC_WALLET_ADDRESS", "share": 100 }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/isinax/isinax/main/Metadata/00001.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
