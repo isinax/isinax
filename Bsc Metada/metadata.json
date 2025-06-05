@@ -12,10 +12,8 @@
       { "address": "0x9a75a91A0abB96502B21bF7A3b9429aa96e47AA4", "share": 100 }
     ],
     "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/isinax/isinax/main/Metadata/00001.png",
-        "type": "image/png"
-      }
+      { "uri": "https://raw.githubusercontent.com/isinax/isinax/main/Metadata/00001.png", "type": "image/png" }
     ]
-  }
+  },
+  "contract_address": "0xe018853083B8D6A1F566C69Ab2c1CBA0A17108C8"
 }
