@@ -1,0 +1,9 @@
+{
+  "name": "Tether USD Bridged ZED20",
+  "symbol": "USDT.z",
+  "description": "Stablecoin on Arbitrum",
+  "image": "https://yourwebsite.com/images/usdtz.png",
+  "extensions": {
+    "website": "https://yourwebsite.com"
+  }
+}
